@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Sobre</string>
+    <string name="about_text">Tiempo de reacción mide el intervalo de tiempo entre una señal de audio y visual hasta que se detecta nuna reacción de audio (por ejemplo, clicker).\n\nLas opciones de menú son:</string>
+    <string name="app_name">Tiempo de reacción</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Borrar</string>
+    <string name="deleted">Tiempos de reacción suprimidos</string>
+    <string name="deletereactiontimes">Eliminar tiempos de reacción</string>
+    <string name="hello">Hello World!</string>
+    <string name="leftfoot">PI</string>
+    <string name="lefthand">MI</string>
+    <string name="list">Listar</string>
+    <string name="mean">Media</string>
+    <string name="nouserreaction_label">Perdido</string>
+    <string name="off">APAGADO</string>
+    <string name="ok">Vale</string>
+    <string name="on">ENCENDIDO</string>
+    <string name="onetime">1 vez</string>
+    <string name="pause">Pausa</string>
+    <string name="react_label">Detener</string>
+    <string name="reactiontime_label">Tiempo de reacción</string>
+    <string name="repeat">Repetir</string>
+    <string name="rightfoot">PD</string>
+    <string name="righthand">MD</string>
+    <string name="save">Guardar</string>
+    <string name="savefilename">Guardar nombre de archivo</string>
+    <string name="setDetectLevel">Establecer el nivel de detección</string>
+    <string name="sounddetect">Detectar</string>
+    <string name="start_label">Comenzar</string>
+    <string name="stop">Detener</string>
+    <string name="timer">Retardo del temporizador</string>
+    <string name="togglehandfoot">Mano/pie</string>
+    <string name="toosoon">Demasiado pronto</string>
+    <string name="vibrate">Vibrar</string>
+    <string name="wait_label">Esperar</string>
+</resources>

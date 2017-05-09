@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_accessibility.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_accessibility.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_report.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_report.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_view_list.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_view_list.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_delete.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_vibration.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_vibration.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_folder.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_folder.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_timer.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_timer.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_volume_mute.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_volume_mute.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_pause_circle_filled.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_pause_circle_filled.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_repeat.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_repeat.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_help_outline.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_help_outline.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_repeat_one.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_repeat_one.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_device_access_time.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_device_access_time.png"
+    },
+    {
+        "merged": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_stop.png",
+        "source": "/d/RESEARCH/Mobile Science/ReactionTimePlus/app/src/main/res/drawable-xhdpi/ic_action_stop.png"
+    }
+]

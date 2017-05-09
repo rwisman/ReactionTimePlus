@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">ReactionTimePlus</string>
+    <string name="react_label">Stop</string>
+    <string name="start_label">Start</string>
+    <string name="wait_label">Wait</string>
+    <string name="reactiontime_label">Reaction Time</string>
+    <string name="nouserreaction_label">Missed</string>
+    <string name="list">List</string>
+    <string name="save">Save</string>
+    <string name="stop">Stop</string>
+    <string name="repeat">Repeat</string>
+    <string name="onetime">1 time</string>
+    <string name="delete">Delete</string>
+    <string name="pause">Pause</string>
+    <string name="mean">Mean</string>
+    <string name="sounddetect">Detection</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="setDetectLevel">Set detection level</string>
+
+    <string name="about">About</string>
+    <string name="about_text">ReactionTime measures the time interval between an audio and visual cue until an audio reaction (e.g. clicker) is detected.\n\nMenu choices are:</string>
+
+    <string name="savefilename">Save filename</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="deletereactiontimes">Delete reaction times</string>
+    <string name="timer">Timer delay</string>
+    <string name="deleted">Reaction times deleted</string>
+    <string name="togglehandfoot">Hand/foot</string>
+    <string name="leftfoot">LF</string>
+    <string name="rightfoot">RF</string>
+    <string name="lefthand">LH</string>
+    <string name="righthand">RH</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="toosoon">Too soon</string>
+</resources>

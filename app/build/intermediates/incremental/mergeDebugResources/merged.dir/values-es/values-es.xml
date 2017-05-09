@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about">Sobre</string>
+    <string name="about_text">Tiempo de reacción mide el intervalo de tiempo entre una señal de audio y visual hasta que se detecta nuna reacción de audio (por ejemplo, clicker).\n\nLas opciones de menú son:</string>
+    <string name="app_name">Tiempo de reacción</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Borrar</string>
+    <string name="deleted">Tiempos de reacción suprimidos</string>
+    <string name="deletereactiontimes">Eliminar tiempos de reacción</string>
+    <string name="hello">Hello World!</string>
+    <string name="leftfoot">PI</string>
+    <string name="lefthand">MI</string>
+    <string name="list">Listar</string>
+    <string name="mean">Media</string>
+    <string name="nouserreaction_label">Perdido</string>
+    <string name="off">APAGADO</string>
+    <string name="ok">Vale</string>
+    <string name="on">ENCENDIDO</string>
+    <string name="onetime">1 vez</string>
+    <string name="pause">Pausa</string>
+    <string name="react_label">Detener</string>
+    <string name="reactiontime_label">Tiempo de reacción</string>
+    <string name="repeat">Repetir</string>
+    <string name="rightfoot">PD</string>
+    <string name="righthand">MD</string>
+    <string name="save">Guardar</string>
+    <string name="savefilename">Guardar nombre de archivo</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="setDetectLevel">Establecer el nivel de detección</string>
+    <string name="sounddetect">Detectar</string>
+    <string name="start_label">Comenzar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="stop">Detener</string>
+    <string name="timer">Retardo del temporizador</string>
+    <string name="togglehandfoot">Mano/pie</string>
+    <string name="toosoon">Demasiado pronto</string>
+    <string name="vibrate">Vibrar</string>
+    <string name="wait_label">Esperar</string>
+</resources>

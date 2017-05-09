@@ -1,0 +1,4 @@
+#Tue Apr 25 00:15:16 EDT 2017
+base.0=/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

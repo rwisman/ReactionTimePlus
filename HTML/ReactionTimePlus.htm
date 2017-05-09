@@ -1,0 +1,227 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Author" content="Raymond F. Wisman">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<link REL="stylesheet" href="basic.css" type="text/css">
+<link rel="icon" 
+      type="image/ico" 
+      href="favicon.ico"/>
+<title>ReactionTime+</title>
+</head>
+
+<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#551A8B" 
+alink="#FF0000">
+
+	<table border="0" cellpadding="10" cellspacing="0">
+		<tr>
+			<td><font size="5"><b>Mobile Science </b></font>&nbsp;<a href="javascript:(function(){l=location.href;if(l.indexOf('translate')>=0){l=decodeURIComponent(l.replace(/^.*[&?](trurl|url|u)=/,'').replace(/[&?].*$/,''))};s=document.selection?document.selection.createRange().text:window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection():'';lw=(s=='')?'http://translate.google.com/translate?u='+encodeURIComponent(l)+'&sl=auto&tl=es&anno=0':'http://translate.google.com/translate_t?text='+s+'&sl=auto&tl=es';wt=window.open(lw);if(window.focus){wt.focus()};})()" style="text-decoration: none"><font size="2">Espanol</font></a><font size="5"><img border="0" src="icon.png" align="left" hspace="0" style="border: 8px solid #FFFFFF; background-color: #FFFFFF" width="72" height="72"><b><br>
+			ReactionTime+</b></font>
+	by Ray Wisman and Kyle Forinash<br>Indiana University SE. 
+
+				<blockquote>
+					<blockquote>
+						<h2><font size="4"><br>
+						Google Play</font><span style="font-size: 16pt"> 
+						- </span>
+						<font size="4">
+						<a href="https://play.google.com/store/apps/details?id=edu.ius.rwisman.reactiontimeplus">
+						ReactionTime+</a></font></h2>
+					</blockquote>
+					<h2><span style="font-size: 16pt">Description</span></h2>
+					<blockquote>
+						<p><i>ReactionTime+</i> measures reaction time from a 
+						prompt (visual and touch) until the user reacts by 
+						pressing a button attached to the phone or tablet 
+						headset jack.</p>
+						<p>ReactionTime+ uses an attached button for a more 
+						accurate and flexible measure than responding to an 
+						screen button tap.</p>
+						<p>Using a push button attached to the headset jack allows accurate time measurement based on 
+						audio recording at precise intervals (e.g. 44100 Hz). 
+						Using screen buttons to measure reaction time suffers from the 
+						variable latency of response to a screen tap, inherently 
+						less predictable or accurate. </p>
+						<p>Using an attached button for the reaction is adaptable for science 
+						education experiments that measure the user reaction 
+						time at the:</p>
+						<ul>
+							<li>hand,</li>
+							<li>foot,</li>
+							<li>wherever pushing a button can be produced.</li>
+						</ul>
+						<p>&nbsp;</p>
+						<blockquote>
+							<table border="0" cellpadding="10" cellspacing="0">
+								<tr>
+									<td><img border="0" src="start.png" width="295" height="519"></td>
+									<td><img border="0" src="rightfoot.png" width="294" height="524"></td>
+									<td><img border="0" src="stop.png" width="294" height="524"></td>
+									<td><img border="0" src="list.png" width="294" height="524"></td>
+								</tr>
+								<tr>
+									<td>Press <i>Start</i> to begin a trial.</td>
+									<td>Prompt for right foot reaction time.</td>
+									<td>Stop reaction time trial with push 
+									button.</td>
+									<td>List of reaction time results, left 
+									foot, etc.</td>
+								</tr>
+							</table>
+						</blockquote>
+						<p>The two signals initiating a single reaction time 
+						test and when the user should respond with a push button 
+						are: </p>
+						<ol>
+							<li>visual - the screen blinks red, </li>
+							<li>touch - the phone vibrates (default is off).</li>
+						</ol>
+						<p>The two signals allow random testing reaction times 
+						dependent upon two different senses. Any combination 
+						of hands or feet can be tested.</p>
+					</blockquote>
+					<p><b>Use</b></p>
+					<blockquote>
+						<ol>
+							<li>A response time trial is the duration from an 
+							visual or touch prompt until a response is detected; if not detected in 2 seconds no 
+							reaction time is measured.</li>
+							<li>The reaction time trial can occur once or be repeated, 
+						results are displayed 
+					when measured and can be saved to the device.</li>
+							<li>Multiple push buttons can be connected.</li>
+							<li>Detection level can be adjusted via the menu if 
+						needed to accurately detect reaction time. If &quot;Missing&quot; 
+							occurs often after a valid reaction, increase the level.</li>
+							<li>Reaction times are known to differ when responding to the touch or visual prompt.</li>
+							<li>Response time trials have a default random delay 
+							of 1-4 seconds waiting for the trial and 2 seconds 
+							to respond. The delay can be changed to 1-10 
+							seconds.</li>
+							<li>The current limit of successfully timed trials 
+							is 1000.</li>
+						</ol>
+					</blockquote>
+					<p><b>Circuit and switch</b></p>
+					<blockquote>
+						<p>The response mechanism includes a simple 
+						resistor/capacitor circuit given below and one or more 
+						switches. The circuit is connected through the headset 
+						jack.</p>
+						<p>Multiple switches can be connected in parallel to 
+						measure reactions at the hands/feet. Circuit A is simple 
+						but one switch cannot be distinguished from another. 
+						Circuit B is more complex and requires an initial 
+						calibration but allows each switch to be identified.</p>
+						<ul>
+							<li>Momentary, normally open switches must be used.</li>
+							<li>Switches connected to the
+							R<sub>3</sub> or R<sub>4</sub> resistor are normally 
+							open, effectively removing that resistor from the circuit. 
+							</li>
+							<li>Switches are connected in parallel, closing any 
+							switch places R<sub>3</sub> or R<sub>4</sub> in the circuit.</li>
+							<li>In circuit A, R<sub>3</sub> value need not be precise, 
+							somewhat lower values should work equally well as 
+							should values below about 300&#937;.</li>
+							<li>In circuit B, one switch is a direct connection 
+							while R<sub>3</sub> and R<sub>4</sub> should differ 
+							by 500&#937;.</li>
+						</ul>
+						<table border="1" cellpadding="10" cellspacing="0">
+							<tr>
+								<td>A. Circuit with 2 switches <br>
+								connected in parallel<p>
+								<img border="0" src="circuit.png"></p>
+								<p>R<sub>1</sub> = 10k&#937;<br>R<sub>2</sub> = 220&#937;<br>R<sub>3 
+								</sub>= 
+								150&#937;<br>C = 0.1&#956;F<br>
+								NO = Normally open switch</td>
+								<td>
+		B.
+		Circuit with 2 resistors and <br>
+								3 switches
+								connected in parallel<p>
+								<img border="0" src="circuit2.png"></p>
+								<p>R<sub>1</sub> = 10k&#937;<br>R<sub>2</sub> = 220&#937;<br>R<sub>3 
+								</sub>= 500&#937;<br>
+								R<sub>4 </sub>= 
+								1000&#937;<br>C = 0.1&#956;F<br>
+								NO = Normally open switch</td>
+								<td>
+		<blockquote>
+			<p>Four-pole headset connections</p>
+			<table border="1" cellpadding="10" cellspacing="0">
+				<tr>
+					<td>tip</td>
+					<td>Left speaker</td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>Right speaker</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Ground</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Microphone</td>
+				</tr>
+			</table>
+		</blockquote>
+								<p>&nbsp;</td>
+							</tr>
+						</table>
+						<br/>
+						<table border="0" cellpadding="10" cellspacing="0">
+						<caption>Single switch.</caption>
+							<tr>
+								<td valign="top">
+								<img border="0" src="photo.jpg"></td>
+							</tr>
+						</table>
+					</blockquote>
+					
+			</blockquote></td>
+		</tr>
+	</table>
+
+	<a>
+<p><b>Legalese</b></p>
+	<blockquote>
+		<p>The program is free software: you can use
+		it under the terms of the GNU General Public License as published by
+		the Free Software Foundation, either version 3 of the License, or
+		(at your option) any later version. No promises are made or responsibly
+		for damage.</p>
+	</blockquote>
+	<p><b>Contacts</b></p>
+	<blockquote>
+		<p>R. Wisman (<script language="javascript">
+document.write('<a href="mailto:rwisman');
+document.write('@');
+document.write('ius.edu">rwisman');
+document.write('@');
+document.write('ius.edu</a>');
+      </script>
+) for 
+		software questions.</p>
+		<p>K. Forinash (<script language="javascript">
+document.write('<a href="mailto:kforinas');
+document.write('@');
+document.write('ius.edu">kforinas');
+document.write('@');
+document.write('ius.edu</a>');
+      </script>
+) 
+		for physics or educational use questions.</p>
+	</blockquote>
+
+</body>
+
+</html>

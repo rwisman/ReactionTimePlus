@@ -1,0 +1,7 @@
+#Wed Apr 26 08:28:34 EDT 2017
+base.0=/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f87dea08c1881db8e6a5c6e68b82fdb58e23208
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_48a7861a9dcd9020fbc83538eb10575786e01232/classes.dex
+base.1=/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_48a7861a9dcd9020fbc83538eb10575786e01232
+file.0=/d/RESEARCH/Mobile Science/ReactionTimePlus/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f87dea08c1881db8e6a5c6e68b82fdb58e23208/classes.dex

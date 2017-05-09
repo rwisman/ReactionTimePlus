@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/handfoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/userPrompt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/togglehandfoot"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <CheckBox
+        android:id="@+id/leftfoot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/leftfoot" />
+
+    <CheckBox
+        android:id="@+id/rightfoot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rightfoot" />
+
+    <CheckBox
+        android:id="@+id/lefthand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lefthand" />
+    <CheckBox
+        android:id="@+id/righthand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/righthand" />
+
+</LinearLayout>
